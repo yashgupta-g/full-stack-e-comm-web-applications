@@ -5,7 +5,7 @@ function Homepage () {
 <div>
 
 <Nav> 
-    <ProductList></ProductList>
+  <ProductList></ProductList>
 </Nav>
 </div>
 
